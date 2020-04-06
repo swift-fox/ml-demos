@@ -29,4 +29,4 @@ All were written with PyTorch and run with OpenAI Gym.
 
 ## Machine Learning Fundementals
 
-A series of scripts to demostrate the core and heart of Machine Learning: backpropagation, SGD, losses, optimizers, layers, ReLU and automatic differentiation. All were written with PyTorch.
+[ml-fundementals](ml-fundementals/): A series of scripts to demostrate the core and heart of Machine Learning: backpropagation, SGD, losses, optimizers, layers, ReLU and automatic differentiation. All were written with PyTorch.
