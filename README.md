@@ -1,6 +1,6 @@
 # Machine Learning Demos
 
-This repo is a collection of some machine learning code I wrote and played with in the past. The sole purpose is to demostrate my coding experience and knowledge of the field.
+This repo is a collection of some machine learning code I wrote and played with in the past. The sole purpose is to demostrate my coding experience and knowledge of the field. I try to keep code short and simple, because simplification is the ultimate sophistication.
 
 ## Image Classification
 
