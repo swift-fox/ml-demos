@@ -11,7 +11,7 @@ This repo is a collection of some machine learning code I wrote and played with 
 
 ## Natural Language Processing
 
-* [nlp/imdb_bert.py](nlp/imdb.py): BERT, sentiment analysis, transfer learning, text classification
+* [nlp/imdb_bert.py](nlp/imdb_bert.py): BERT, sentiment analysis, transfer learning, text classification
 * [nlp/imdb_lstm.py](nlp/imdb_lstm.py): LSTM, embedding, text classification
 * [nlp/imdb_tf_hub.py](nlp/imdb_tf_hub.py): embedding, TF-Hub, text classification
 * [nlp/imdb.py](nlp/imdb.py): embedding, text classification
