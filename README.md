@@ -6,6 +6,7 @@ This repo is a collection of some machine learning code I wrote and played with 
 
 * [vision/oxford_iiit_pet_unet.py](vision/oxford_iiit_pet_unet.py): U-Net, transfer learning, image segmentation
 * [vision/cats_vs_dogs.py](vision/cats_vs_dogs.py): ResNet, transfer learning, image classification
+* [vision/cats_vs_dogs_heatmap.py](vision/cats_vs_dogs_heatmap.py): ResNet, CNN activation map, transfer learning
 * [vision/mnist_cnn.py](vision/mnist_cnn.py): simple CNN, image classification
 * [vision/mnist.py](vision/mnist.py): DNN, Dropout, image classification
 
