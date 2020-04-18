@@ -2,6 +2,10 @@
 
 This repo is a collection of some machine learning code I wrote and played with in the past. The sole purpose is to demostrate my coding experience and knowledge of the field. All code here are short and simple, because why not?
 
+## Speech
+
+* [speech/rnnt.py](speech/rnnt.py): RNN transducer, speech recognition, end-to-end model. This is **only** to demostrate the implemenation of the model, because I don't have the massive hardware resource required to train it (300GB data + 1 GPU month).
+
 ## Vision
 
 * [vision/oxford_iiit_pet_unet.py](vision/oxford_iiit_pet_unet.py): U-Net, transfer learning, image segmentation
