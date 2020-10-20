@@ -1,6 +1,13 @@
 # Machine Learning Demos
 
-This repo is a collection of some machine learning code I wrote and played with in the past. The sole purpose is to demostrate my coding experience and knowledge of the field. All code here are short and simple, because why not?
+This repo is a collection of code snippets that demostrate the common applications of Machine Learning. The intention is to capture the most technologically important pieces with the minimal amount of code. Hope you find it helpful as a quick reference to understand how a certain ML technique works.
+
+## Natural Language Processing
+
+* [nlp/imdb_bert.py](nlp/imdb_bert.py): BERT, sentiment analysis, transfer learning, text classification
+* [nlp/imdb_lstm.py](nlp/imdb_lstm.py): LSTM, embedding, text classification
+* [nlp/imdb_tf_hub.py](nlp/imdb_tf_hub.py): embedding, TF-Hub, text classification
+* [nlp/imdb.py](nlp/imdb.py): embedding, text classification
 
 ## Speech
 
@@ -13,13 +20,6 @@ This repo is a collection of some machine learning code I wrote and played with 
 * [vision/cats_vs_dogs_heatmap.py](vision/cats_vs_dogs_heatmap.py): ResNet, CNN activation map, transfer learning
 * [vision/mnist_cnn.py](vision/mnist_cnn.py): simple CNN, image classification
 * [vision/mnist.py](vision/mnist.py): DNN, Dropout, image classification
-
-## Natural Language Processing
-
-* [nlp/imdb_bert.py](nlp/imdb_bert.py): BERT, sentiment analysis, transfer learning, text classification
-* [nlp/imdb_lstm.py](nlp/imdb_lstm.py): LSTM, embedding, text classification
-* [nlp/imdb_tf_hub.py](nlp/imdb_tf_hub.py): embedding, TF-Hub, text classification
-* [nlp/imdb.py](nlp/imdb.py): embedding, text classification
 
 ## Reinforcement Learning
 
