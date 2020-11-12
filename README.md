@@ -1,9 +1,12 @@
 # Machine Learning Demos
 
-This repo is a collection of code snippets that demostrate the common applications of Machine Learning. The intention is to capture the most technologically important pieces with the minimal amount of code. Hope you find it helpful as a quick reference to understand how a certain ML technique works.
+This repo is a collection of code snippets that demostrate common models and applications of Machine Learning. The intention is to capture the core of the ideas with the minimal amount of code. Hope you find it helpful as a quick reference to understand certain ML techniques.
 
 ## Natural Language Processing
 
+* [nlp/text_generation_gpt_2_beam_search.py](nlp/text_generation_gpt_2_beam_search.py): GPT-2, text generation, pre-trained model, beam search
+* [nlp/text_generation_gpt_2_top_k_top_p_filtering.py](nlp/text_generation_gpt_2_top_k_top_p_filtering.py): GPT-2, text generation, pre-trained model, top-k top-p filtering
+* [nlp/text_generation_gpt_2_greedy_search.py](nlp/text_generation_gpt_2_greedy_search.py): GPT-2, text generation, pre-trained model, greedy search
 * [nlp/imdb_bert.py](nlp/imdb_bert.py): BERT, sentiment analysis, transfer learning, text classification
 * [nlp/imdb_lstm.py](nlp/imdb_lstm.py): LSTM, embedding, text classification
 * [nlp/imdb_tf_hub.py](nlp/imdb_tf_hub.py): embedding, TF-Hub, text classification
