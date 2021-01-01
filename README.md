@@ -1,6 +1,6 @@
 # Machine Learning Demos
 
-This repo is a collection of code snippets that demostrate common models and applications of Machine Learning. The intention is to capture the core of the ideas with the minimal amount of code. Hope you find it helpful as a quick reference to understand certain ML techniques.
+This repo is a collection of code snippets to demostrate common models and applications of Machine Learning. Each script is a standalone program. The intention is to capture the core of the idea with the minimal amount of code. Hope you find it helpful as a quick reference to understand ML techniques.
 
 ## Natural Language Processing
 
@@ -23,6 +23,10 @@ This repo is a collection of code snippets that demostrate common models and app
 * [vision/cats_vs_dogs_heatmap.py](vision/cats_vs_dogs_heatmap.py): ResNet, CNN activation map, transfer learning
 * [vision/mnist_cnn.py](vision/mnist_cnn.py): simple CNN, image classification
 * [vision/mnist.py](vision/mnist.py): DNN, Dropout, image classification
+
+## Generative Adversarial Networks
+
+* [gan/mnist.py](gan/mnist.py): Deep Convolutional GAN, image generation
 
 ## Reinforcement Learning
 
