@@ -7,6 +7,7 @@ This repo is a collection of code snippets to demostrate common models and appli
 * [nlp/text_generation_gpt_2_beam_search.py](nlp/text_generation_gpt_2_beam_search.py): GPT-2, text generation, pre-trained model, beam search
 * [nlp/text_generation_gpt_2_top_k_top_p_filtering.py](nlp/text_generation_gpt_2_top_k_top_p_filtering.py): GPT-2, text generation, pre-trained model, top-k top-p filtering
 * [nlp/text_generation_gpt_2_greedy_search.py](nlp/text_generation_gpt_2_greedy_search.py): GPT-2, text generation, pre-trained model, greedy search
+* [nlp/transformer.py](nlp/transformer.py): the original Transformer model implemented with PyTorch
 * [nlp/imdb_bert.py](nlp/imdb_bert.py): BERT, sentiment analysis, transfer learning, text classification
 * [nlp/imdb_lstm.py](nlp/imdb_lstm.py): LSTM, embedding, text classification
 * [nlp/imdb_tf_hub.py](nlp/imdb_tf_hub.py): embedding, TF-Hub, text classification
